@@ -1,0 +1,16 @@
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.exe
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.deps.json
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.runtimeconfig.json
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.dll
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.pdb
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI_Calculator.Form1.resources
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.vbproj.GenerateResource.cache
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfoInputs.cache
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfo.vb
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.vbproj.CoreCompileInputs.cache
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.dll
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\refint\BMI Calculator.dll
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.pdb
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.genruntimeconfig.cache
+E:\Visual Studio Save\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\ref\BMI Calculator.dll
